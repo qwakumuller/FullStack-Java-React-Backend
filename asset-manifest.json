@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FullStack-Java-React-Backend/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/FullStack-Java-React-Backend/static/js/main.c9790a90.chunk.js",
+    "main.js.map": "/FullStack-Java-React-Backend/static/js/main.c9790a90.chunk.js.map",
+    "runtime-main.js": "/FullStack-Java-React-Backend/static/js/runtime-main.0c512b57.js",
+    "runtime-main.js.map": "/FullStack-Java-React-Backend/static/js/runtime-main.0c512b57.js.map",
+    "static/css/2.2964def7.chunk.css": "/FullStack-Java-React-Backend/static/css/2.2964def7.chunk.css",
+    "static/js/2.cc6ee685.chunk.js": "/FullStack-Java-React-Backend/static/js/2.cc6ee685.chunk.js",
+    "static/js/2.cc6ee685.chunk.js.map": "/FullStack-Java-React-Backend/static/js/2.cc6ee685.chunk.js.map",
+    "static/js/3.46b37e54.chunk.js": "/FullStack-Java-React-Backend/static/js/3.46b37e54.chunk.js",
+    "static/js/3.46b37e54.chunk.js.map": "/FullStack-Java-React-Backend/static/js/3.46b37e54.chunk.js.map",
+    "index.html": "/FullStack-Java-React-Backend/index.html",
+    "static/css/2.2964def7.chunk.css.map": "/FullStack-Java-React-Backend/static/css/2.2964def7.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/FullStack-Java-React-Backend/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cc6ee685.chunk.js.LICENSE.txt": "/FullStack-Java-React-Backend/static/js/2.cc6ee685.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c512b57.js",
+    "static/css/2.2964def7.chunk.css",
+    "static/js/2.cc6ee685.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c9790a90.chunk.js"
+  ]
+}
