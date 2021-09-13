@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th ="http://www.thymleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>SIGN UP</h1>
+
+<form th:action="@{/login}" method="post" th:field="$">
+
+<input type="text"  th:field="*{firstName}">
+<label>First Name</label> <br> 
+
+<input type="text"  th:field="*{firstName}">
+<label>Department</label> <br> 
+</form>
+
+</body>
+</html>

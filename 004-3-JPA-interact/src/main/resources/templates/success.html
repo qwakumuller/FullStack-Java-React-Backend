@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th ="http://www.thymleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<p>CONGRATULATION <b> <span th:text="${emp.firstName}"></span> </b></p>
+
+<p>First name <b><span th:text="${emp.firstName}"></span></b></p>
+<p>Last name <b><span th:text="${emp.lastName}"></span></b></p>
+<p>Country <b><span th:text="${emp.country}"></span></b></p>
+<p>Department  <b><span th:text="${emp.department}"></span></b></p>
+
+
+<button type="submit"><a th:href="@{/}">HOME</a></button>
+
+</body>
+</html>
