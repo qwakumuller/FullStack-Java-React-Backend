@@ -13,7 +13,7 @@ const App = () => {
     {field: "lastName"},
     {field: "country"},
     {field: "department"},
-    {headerName:"Action",button: "<button> DELETE</button>"}
+    {headerName:"Action"}
 
 
   ])
