@@ -12,7 +12,6 @@ pipeline {
             withMaven() {
               sh 'mvn test'
             }
-
           }
         }
   }
