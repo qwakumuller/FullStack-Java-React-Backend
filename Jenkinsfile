@@ -9,6 +9,7 @@ pipeline {
     stage('Test') {
           steps {
             sh 'echo "Test Branches"'
+            dir("004-3-JPA-interact")
             withMaven() {
               sh 'mvn test'
             }
