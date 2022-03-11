@@ -10,7 +10,7 @@ pipeline {
           steps {
             sh 'echo "Test Branches"'
             dir("004-3-JPA-interact"){
-                withMaven() {
+                withMaven(maven: 'mvn') {
                     sh 'mvn test'
                 }
             }
