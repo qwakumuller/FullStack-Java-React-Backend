@@ -1,11 +1,15 @@
 pipeline {
   agent any
   stages {
-    stage('') {
+    stage('Test') {
       steps {
-        sh 'echo "Welcome"'
+      dir("004-3-JPA-interact")
+        sh 'echo "Test Branches"'
+        withMaven() {
+          sh 'mvn test'
+        }
+
       }
     }
-
   }
 }
