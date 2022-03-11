@@ -14,7 +14,6 @@ pipeline {
             sh 'echo "Test Branches"'
             dir("004-3-JPA-interact"){
                     sh 'mvn test'
-
             }
           }
        }
